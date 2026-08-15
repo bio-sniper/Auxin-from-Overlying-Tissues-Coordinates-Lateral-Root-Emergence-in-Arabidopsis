@@ -1,0 +1,14 @@
+# R packages required for this analysis
+
+tidyverse  2.0.0
+ggupset   0.4.1
+enrichplot 1.26.6
+DOSE  4.0.1
+scales 1.4.0
+limma 3.62.2
+org.At.tair.db  3.20.0
+clusterProfiler 4.14.6
+ggvenn   0.1.19
+readxl   1.4.5
+edgeR   4.42
+Seurat   5.5.0
